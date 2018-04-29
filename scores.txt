@@ -1,0 +1,123 @@
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis0.h5 on ['subject-9-axis-0.h5']
+
+ABS_SUM: [ 31854730.    304680.    781007.    614013.]
+Jaccard: (4,) [ 0.99999964  0.83345568  0.75403523  0.7558831 ]
+Dice: (4,) [ 0.99999988  0.90916371  0.85977209  0.86097199]
+Test Completed.
+
+
+=====
+*****
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis0.h5 on ['subject-10-axis-0.h5']
+
+ABS_SUM: [ 32059818.    342795.    744807.    407013.]
+Jaccard: (4,) [ 0.99999994  0.84915769  0.74630719  0.66014594]
+Dice: (4,) [ 0.99999994  0.91842645  0.85472614  0.79528666]
+Test Completed.
+
+
+=====
+*****
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis0.h5 on ['subject-8-axis-0.h5']
+
+ABS_SUM: [ 31981084.    362362.    730988.    479998.]
+Jaccard: (4,) [ 1.          0.86666185  0.77050835  0.73885226]
+Dice: (4,) [ 1.          0.92856866  0.87038094  0.84981602]
+Test Completed.
+
+
+=====
+*****
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis1.h5 on ['subject-9-axis-1.h5']
+
+ABS_SUM: [ 31854730.    313062.    780573.    606069.]
+Jaccard: (4,) [ 0.99999988  0.83031166  0.74869728  0.75141674]
+Dice: (4,) [ 0.99999988  0.90728992  0.85629147  0.85806733]
+Test Completed.
+
+
+=====
+*****
+=====
+*****
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis1.h5 on ['subject-9-axis-1.h5']
+
+ABS_SUM: [ 31854730.    313062.    780573.    606069.]
+Jaccard: (4,) [ 0.99999988  0.83031166  0.74869728  0.75141674]
+Dice: (4,) [ 0.99999988  0.90728992  0.85629147  0.85806733]
+Test Completed.
+
+
+=====
+*****
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis1.h5 on ['subject-10-axis-1.h5']
+
+ABS_SUM: [ 32059826.    353212.    736263.    405133.]
+Jaccard: (4,) [ 0.9999994   0.84848392  0.75128919  0.67641705]
+Dice: (4,) [ 0.99999964  0.91803223  0.85798419  0.80697942]
+Test Completed.
+
+
+=====
+*****
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis1.h5 on ['subject-8-axis-1.h5']
+
+ABS_SUM: [ 31981088.    373991.    725409.    473945.]
+Jaccard: (4,) [ 0.99999982  0.8701607   0.78269088  0.75722623]
+Dice: (4,) [ 0.99999988  0.93057323  0.87810051  0.86184263]
+Test Completed.
+
+
+=====
+*****
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis2.h5 on ['subject-9-axis-2.h5']
+
+ABS_SUM: [ 31854738.    334394.    797153.    568148.]
+Jaccard: (4,) [ 0.99999928  0.78364396  0.72622031  0.72894841]
+Dice: (4,) [ 0.99999964  0.87869996  0.84139931  0.84322745]
+Test Completed.
+
+
+=====
+*****
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis2.h5 on ['subject-10-axis-2.h5']
+
+ABS_SUM: [ 32059822.    374916.    754839.    364854.]
+Jaccard: (4,) [ 0.99999958  0.81828588  0.76778942  0.69946945]
+Dice: (4,) [ 0.99999982  0.90006292  0.86864352  0.82316214]
+Test Completed.
+
+
+=====
+*****
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis2.h5 on ['subject-9-axis-2.h5']
+
+ABS_SUM: [ 31854738.    334394.    797153.    568148.]
+Jaccard: (4,) [ 0.99999928  0.78364396  0.72622031  0.72894841]
+Dice: (4,) [ 0.99999964  0.87869996  0.84139931  0.84322745]
+Test Completed.
+
+
+=====
+*****
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis2.h5 on ['subject-10-axis-2.h5']
+
+ABS_SUM: [ 32059822.    374916.    754839.    364854.]
+Jaccard: (4,) [ 0.99999958  0.81828588  0.76778942  0.69946945]
+Dice: (4,) [ 0.99999982  0.90006292  0.86864352  0.82316214]
+Test Completed.
+
+
+=====
+*****
+Testing /home/abhijit/Desktop/Shubham/BCP/Models/Y3_axis2.h5 on ['subject-8-axis-2.h5']
+
+ABS_SUM: [ 31981084.    397479.    740331.    435539.]
+Jaccard: (4,) [ 0.9999997   0.82547534  0.76051319  0.7370491 ]
+Dice: (4,) [ 0.99999982  0.90439492  0.8639676   0.84862202]
+Test Completed.
+
+
+=====
+
+
